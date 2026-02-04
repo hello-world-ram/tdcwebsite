@@ -4,10 +4,12 @@
            p {
            color: blue;
         }
-        label{
-            background-color: blueviolet;
-            
-        }
-        button{
+         button{
             background-color: aquamarine;
+        }
+        body{
+            background-color: lightgray;
+        }
+        p{
+            align-items: center;
         }
